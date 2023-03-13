@@ -1,16 +1,13 @@
-### Hi there 👋, My name is Sama Sammar
+### Hi there 👋, my name is Sama Sammar
+####  CSE student 
+![ CSE student ](https://cdn.dribbble.com/users/1129235/screenshots/11119956/torus_dribbble_1_still_2x.gif?compress=1&resize=400x300)
 
-<!--
-**Sama-Sammar/Sama-Sammar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am CSE student at AAUP 
 
-Here are some ideas to get you started:
+Skills: Java / C++ / JS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
