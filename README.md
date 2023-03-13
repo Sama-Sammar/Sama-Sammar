@@ -4,7 +4,12 @@
 
 I am CSE student at AAUP 
 
-Skills: Java / C++ / JS / HTML / CSS
+Skills:
+* Java 
+* C++ 
+* JS 
+* HTML
+* CSS
 
 
 
