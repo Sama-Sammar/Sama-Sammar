@@ -15,7 +15,7 @@ Skills:
 * SQL Oracle
 * Flutter
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sama-Sammar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sama.haitham.948?mibextid=LQQJ4d)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/Sama.Sammar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]([www.linkedin.com/in/sama-haitham-9b195b271](https://www.linkedin.com/in/sama-haitham-9b195b271/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sama-Sammar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sama.haitham.948?mibextid=LQQJ4d)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/Sama.Sammar) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]([https://codeforces.com/profile/Sama.Sammar](https://www.linkedin.com/in/sama-haitham/)) 
 
   
 
